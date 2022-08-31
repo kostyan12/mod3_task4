@@ -40,6 +40,7 @@ class Mod3_task4ApplicationTests {
 			};
 			// ...
 
+			return null;
 		});
 
 	}
